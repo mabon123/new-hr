@@ -1,0 +1,16 @@
+{
+    "department_name": "Human Resource",
+    "NoPage": "NoPage",
+    "pages":"Pages",
+    "search...": "Search...",
+    "notification": "Notification",
+    "make_all": "Make all read",
+    "payroll_number": "Payroll Number",
+    "name": "Name",
+    "fullname_latin": "Full name (Latin)",
+    "sex": "Sex",
+    "dob": "Date of Birth",
+    "current_status": "Current Status",
+    "current_workplace": "Current Workplace"
+
+}
